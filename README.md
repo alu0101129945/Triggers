@@ -1,4 +1,6 @@
-## Triggers
+# Triggers
 
-### BASE DE DATOS:
-![Alt text](https://github.com/lauracahe/Triggers/tree/main/imagenes "Base de datos")
+# BASE DE DATOS:
+![Error al cargar la imagen](https://github.com/lauracahe/Triggers/tree/main/imagenes/Databases.png)
+
+
